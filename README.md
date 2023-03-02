@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭I’m currently working on Full Stack Web development.<br>🌱 I’m currently learning new Web Technologies<br>⚡ Fun fact "DRY CODE"<br>
-📩 Reach me out saicharanbhogi2001@gmail.com
+📩 Reach me out panjabharath68@gmail.com
 
 
 ## 🌐 Socials:
